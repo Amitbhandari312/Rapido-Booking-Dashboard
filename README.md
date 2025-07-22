@@ -85,8 +85,8 @@ This project presents a dynamic **Power BI dashboard** developed to analyze and 
 ## 📬 Contact
 
 **Amit Bhandari**  
-Email: [your-email@example.com]  
-LinkedIn: [Your LinkedIn Profile]  
+Email: [Amitbh107@gmail.com]  
+LinkedIn: [www.linkedin.com/in/amitbhandari2004]  
 GitHub: [@Amitbhandari312](https://github.com/Amitbhandari312)
 
 ---
